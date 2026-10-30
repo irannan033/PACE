@@ -1,4 +1,4 @@
-# Sewing AI – Phase 1 test build (offline, local, CPU)
+# PACE – Phase 1 test build (offline, local, CPU)
 All processing is local; no video leaves the machine.
 
 ## Windows setup
