@@ -30,7 +30,7 @@ Fill required fields (*), Load Reference = data/ref.mp4, Load Test = data/test.m
 ## Score
 overall = 0.5·min(ratio,1.5) + 0.3·similarity + 0.2·completeness; ratio = ref cycle / test cycle. Weights are assumptions. Quality/safety gates require human review. No learning is claimed: nothing is trained yet.
 
-## References (verify DOIs before citing)
+## References
 - Sakoe & Chiba (1978), Dynamic programming algorithm optimization for spoken word recognition, IEEE TASSP, doi:10.1109/TASSP.1978.1163055 – DTW.
 - Cao et al. (2019), OpenPose, IEEE TPAMI, doi:10.1109/TPAMI.2019.2929257 – multi-person pose.
 - Bazarevsky et al. (2020), BlazePose, arXiv:2006.10204 – MediaPipe pose basis.
